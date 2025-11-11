@@ -1,0 +1,20 @@
+body{
+    background-color: aliceblue;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(4, 120, 4);
+}    
+button{
+padding: 15px;
+padding-left: 60px;
+padding-right: 60px;
+background-color: rgb(194, 194, 194);
+border: 2px solid rgb(0, 0, 0);
+border-radius: 8px;
+margin: 10px;
+}
+nav{
+margin-left: 450px;
+}
